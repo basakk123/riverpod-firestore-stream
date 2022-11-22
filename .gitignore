@@ -1,4 +1,5 @@
 # Miscellaneous
+#/ios/firebase_app_id_file.json
 *.class
 *.log
 *.pyc
